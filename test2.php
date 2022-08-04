@@ -5,5 +5,5 @@ $box2 = 'orenge';
 $box3 = 'banana';
 
 echo $box1;
-
-?>:w
+echo $box2;
+?>
