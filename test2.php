@@ -6,4 +6,5 @@ $box3 = 'banana';
 
 echo $box1;
 echo $box2;
+echo $box3;
 ?>
